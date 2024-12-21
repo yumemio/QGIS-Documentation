@@ -133,9 +133,8 @@ take police crime incident reports and create a country wide raster map showing
 how high the incidence of crime is likely to be in each area. Meteorologists
 (people who study weather patterns) might generate a province level raster showing
 average temperature, rainfall and wind direction using data collected from weather
-stations (see :numref:`figure_csir_station`). In these cases, they will often use raster
-analysis techniques such as interpolation (which we describe in Topic
-:ref:`spatial_analysys`).
+stations. In these cases, they will often use raster analysis techniques such as
+interpolation (which we describe in Topic :ref:`spatial_analysys`).
 
 Sometimes raster data are created from vector data because the data owners want
 to share the data in an easy to use format. For example, a company with road,
